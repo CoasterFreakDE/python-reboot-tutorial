@@ -26,3 +26,5 @@ Invite zum Discord: https://discord.gg/j6nAhV6
 Lasse auch gerne ein Abo auf diesen Kanälen da:
 - https://www.youtube.com/channel/UCDvHH-ATRjVX4dfOA-HZGNA/
 - https://www.tiktok.com/@coasterfreakde?lang=de-DE
+
+Alle Icons stammen von https://icons8.com/
