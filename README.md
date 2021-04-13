@@ -20,7 +20,7 @@ Die meisten Folgen sind wie folgt aufgebaut:
 ## Disclaimer
 
 Du darfst alle Sourcecodes frei für deine Bots benutzen.
-Es wäre cool, wenn du Melion.net irgendwo erwähnen oder den Server boosten würdest.
+Es wäre cool, wenn du Melion.cloud irgendwo erwähnen oder den Server boosten würdest.
 Invite zum Discord: https://discord.gg/j6nAhV6
 
 Lasse auch gerne ein Abo auf diesen Kanälen da:
