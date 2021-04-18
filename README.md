@@ -8,8 +8,8 @@ Hi! Erstmal danke, dass du meine Tutorials schaust. Hier auf dieser Seite findes
 ## Aufbau
 
 Die meisten Folgen sind wie folgt aufgebaut:
+- idea Ordner > Ordner mit Einstellungen für PyCharm
 - bot.py > Der komplette Bot zum Stand der Folge.
-- gist.py > Alle Änderungen, die seit der letzten Folge passiert sind.
 
 
 ## Wichtige Links
